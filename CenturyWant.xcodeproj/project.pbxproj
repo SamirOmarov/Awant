@@ -12,6 +12,7 @@
 		ACB0A7DA21651E80009B766C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ACB0A7D821651E80009B766C /* Main.storyboard */; };
 		ACB0A7DC21651E86009B766C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ACB0A7DB21651E86009B766C /* Assets.xcassets */; };
 		ACB0A7DF21651E86009B766C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ACB0A7DD21651E86009B766C /* LaunchScreen.storyboard */; };
+		ACB0A7E8216521F5009B766C /* beach-fruit-ocean-47454.jpg in Resources */ = {isa = PBXBuildFile; fileRef = ACB0A7E7216521F5009B766C /* beach-fruit-ocean-47454.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		ACB0A7DB21651E86009B766C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		ACB0A7DE21651E86009B766C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		ACB0A7E021651E86009B766C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		ACB0A7E7216521F5009B766C /* beach-fruit-ocean-47454.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "beach-fruit-ocean-47454.jpg"; path = "../../../beach-fruit-ocean-47454.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +40,7 @@
 		ACB0A7C821651E80009B766C = {
 			isa = PBXGroup;
 			children = (
+				ACB0A7E6216521DC009B766C /* New Group */,
 				ACB0A7D321651E80009B766C /* CenturyWant */,
 				ACB0A7D221651E80009B766C /* Products */,
 			);
@@ -62,6 +65,14 @@
 				ACB0A7E021651E86009B766C /* Info.plist */,
 			);
 			path = CenturyWant;
+			sourceTree = "<group>";
+		};
+		ACB0A7E6216521DC009B766C /* New Group */ = {
+			isa = PBXGroup;
+			children = (
+				ACB0A7E7216521F5009B766C /* beach-fruit-ocean-47454.jpg */,
+			);
+			path = "New Group";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -122,6 +133,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				ACB0A7E8216521F5009B766C /* beach-fruit-ocean-47454.jpg in Resources */,
 				ACB0A7DF21651E86009B766C /* LaunchScreen.storyboard in Resources */,
 				ACB0A7DC21651E86009B766C /* Assets.xcassets in Resources */,
 				ACB0A7DA21651E80009B766C /* Main.storyboard in Resources */,
